@@ -106,12 +106,12 @@ export default function Home() {
               useKeyboardArrows={true}
               centerMode={false}
               ariaLabel={undefined}
-              className="before:content-[' '] before:bg-[url('https://www.myhealthchallenge.com/images/invertd_open.png')] before:absolute before:w-45px before:h-39px before:top-16 before:left-0 after:content-[' '] after:bg-[url('https://www.myhealthchallenge.com/images/invertd_close.png')] after:absolute after:w-45px after:h-39px after:bottom-16 after:right-0 after:bg-contain px-20"
+              // className="before:content-[' '] before:bg-[url('https://www.myhealthchallenge.com/images/invertd_open.png')] before:absolute before:w-45px before:h-39px before:top-16 before:left-0 after:content-[' '] after:bg-[url('https://www.myhealthchallenge.com/images/invertd_close.png')] after:absolute after:w-45px after:h-39px after:bottom-16 after:right-0 after:bg-contain px-20"
             >
               <div className="text-4xl italic font-light my-16">
                 <div>
                   I loved the motivation and accountability provided during the
-                  program. This is more than just a fun, online challenge; it's
+                  program. This is more than just a fun, online challenge; its
                   a sustainable set of habits for life.
                 </div>
                 <div className="flex justify-end">ajidk</div>
